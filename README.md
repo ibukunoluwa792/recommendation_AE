@@ -5,7 +5,7 @@
 Self-Supervised Learning 
 
 
-A Recommender System that predicts ratings from 1 to 5 on MovieLens 1M/100K Dataset.
+A Recommender System that predicts ratings from 1 to 5 on MovieLens 1M/100K Dataset
 
 Download the dataset from: https://grouplens.org/datasets/movielens/
 
