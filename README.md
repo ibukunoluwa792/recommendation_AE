@@ -2,7 +2,8 @@
 
 ### Note: This repository contains homework assignments for the Artificial Intelligence course at the University of Glasgow, created while I served as the assistant lecturer and held a postdoctoral position, focusing on Python, deep learning, and associated tools.
 
-Self-Supervised Learning .
+Self-Supervised Learning 
+
 
 
 A Recommender System that predicts ratings from 1 to 5 on MovieLens 1M/100K Dataset
